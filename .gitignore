@@ -3,7 +3,7 @@ DerivedDataCache
 Intermediate
 Saved
 The_File
-.uproject
+*.uproject
 .vscode
 .vs
 *.VC.db
