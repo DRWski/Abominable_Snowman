@@ -3,6 +3,7 @@ DerivedDataCache
 Intermediate
 Saved
 The_File
+Abominable_Snowman
 .vscode
 .vs
 *.VC.db
@@ -13,4 +14,3 @@ The_File
 *.suo
 *.xcodeproj
 *.xcworkspace
-*.uproject
