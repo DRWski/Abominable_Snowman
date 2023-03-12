@@ -26,6 +26,10 @@
 		{
 			"Name": "AndroidMedia",
 			"Enabled": false
+		},
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
